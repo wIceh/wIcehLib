@@ -1,0 +1,5 @@
+name: wIcehLib
+version: '${version}'
+main: me.wiceh.wicehlib.wIcehLib
+api-version: '1.16'
+authors: [wIceh]
